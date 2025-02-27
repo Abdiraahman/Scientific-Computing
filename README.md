@@ -22,6 +22,10 @@ Prints numbers from 10 down to 1 in reverse order using a while loop.
    
 This script calculates the area of different shapes using a function that takes shape type and dimensions as input.
 
+   4.numpy_basics.py
+
+How to create and display a two-dimensional array using the NumPy library
+
    HOW TO RUN THE SCRIPTS
    
 Install Python  3.
@@ -54,3 +58,6 @@ Using the math module to access constants like math.pi.
 Handling and computing areas of different shapes dynamically.
 
 Implementing error handling for unsupported shapes.
+
+create a two-dimensional array using NumPy.
+Basic features of numpy library
