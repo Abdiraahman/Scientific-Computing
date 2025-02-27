@@ -60,4 +60,5 @@ Handling and computing areas of different shapes dynamically.
 Implementing error handling for unsupported shapes.
 
 create a two-dimensional array using NumPy.
+
 Basic features of numpy library
